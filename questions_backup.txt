@@ -1,0 +1,10 @@
+A number is increased by 20% and then decreased by 20%. What is the net change in percentage?,No change,4% decrease,4% increase,10% decrease,1
+If the sum of two numbers is 72 and their difference is 18, what is the product of the two numbers?,1224,1296,1440,1620,1
+A train 150 meters long is running at 54 km/hr. How long will it take to cross a pole?,8 seconds,10 seconds,12 seconds,15 seconds,1
+A man buys a shirt for ₹800 and sells it at a 25% profit. What is the selling price?,₹900,₹950,₹1000,₹1050,2
+In a class, 60% of students passed in Math, 75% passed in English, and 50% passed in both subjects. What percentage passed in either Math or English?,85%,90%,95%,100%,0
+A person travels 1/3rd of a journey at 30 km/h, the next 1/3rd at 40 km/h, and the last 1/3rd at 50 km/h. What is the average speed?,38 km/h,40 km/h,42 km/h,44 km/h,0
+How many three-digit numbers are divisible by 7?,127,128,129,130,1
+The ratio of the ages of A and B is 5:3. If the sum of their ages is 64 years, what is the age of A?,30 years,35 years,40 years,45 years,2
+A shopkeeper marks his goods 40% above the cost price and offers a discount of 25%. What is his actual profit percentage?,5%,10%,12%,15%,0
+A sum of money doubles itself in 5 years at simple interest. What is the rate of interest?,10%,15%,20%,25%,2
